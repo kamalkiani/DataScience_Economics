@@ -1,2 +1,2 @@
-# DataScience_Economic
-Data Science (PODS) European countries economic strength comparison
+# DataScience_Economics
+Data Science (PODS) European countries economics strength comparison
